@@ -13,6 +13,7 @@ public class removeDuplicates {
         }
     }
 
+    @SuppressWarnings("unused")
     public static Node removeDuplicatesElement(Node head){
         if(head == null || head.next == null){
             return head;
@@ -31,7 +32,10 @@ public class removeDuplicates {
                 temp1 = temp1.next;
                 temp2.next = temp1;
             }
-            if(temp1 == null) break;
+            else if(temp1 == null) {
+                temp2.next = temp1;
+                break;
+            }
             else {
                 temp1 = temp1.next;
                 temp2 = temp2.next;

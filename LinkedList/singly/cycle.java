@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.singly;
 
 /*find out the cycle in linked list*/
 public class cycle {

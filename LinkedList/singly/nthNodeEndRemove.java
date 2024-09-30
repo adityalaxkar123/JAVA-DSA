@@ -1,5 +1,4 @@
-package LinkedList;
-
+package LinkedList.singly;
 /*remove nth node from end*/
 public class nthNodeEndRemove {
     public static class Node {

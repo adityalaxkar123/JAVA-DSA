@@ -1,5 +1,4 @@
-package LinkedList;
-
+package LinkedList.singly;
 public class removeDuplicates {
 
     public static class Node{

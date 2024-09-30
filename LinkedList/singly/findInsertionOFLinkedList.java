@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.singly;
 
 public class findInsertionOFLinkedList {
     public static class Node {

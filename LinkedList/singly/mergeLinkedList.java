@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.singly;
 /*using extra space*/
 public class mergeLinkedList {
     public static class Node{

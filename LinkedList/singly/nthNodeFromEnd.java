@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.singly;
 /*finding nth node from End*/
 public class nthNodeFromEnd {
 

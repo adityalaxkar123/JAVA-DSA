@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.singly;
 public class FindMiddle {
 
     public static class Node{

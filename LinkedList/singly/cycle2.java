@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.singly;
 /*find out the node at which cycle begins*/
 public class cycle2 {
 
